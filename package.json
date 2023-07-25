@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "mongoose": "^6.9.0",
+    "nodemon": "^2.0.20"
+  },
+  "name": "loginsignuptutorial",
+  "version": "1.0.0",
+  "description": "this is me",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hj"
+  },
+  "keywords": [
+    "io"
+  ],
+  "author": "this is author",
+  "license": "ISC"
+}
